@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nombre": "Dina Ercilia",
+    "apellido": "Boluarte Zegarra",
+    "edad": 62,
+    "cargo": "Presidenta de la República del Perú",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Presidenta_Boluarte_2024.jpg/640px-Presidenta_Boluarte_2024.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Antonio Mirril",
+    "apellido": "Ramos Bernaola",
+    "edad": 59,
+    "cargo": "Subsecretario General",
+    "imagen": "https://anepssaperu.com.pe/wp-content/uploads/2020/07/WhatsApp-Image-2021-06-17-at-1.53.13-PM-860x1000.jpeg"
+  },
+  {
+    "id": 3,
+    "nombre": "Fredy Hernán",
+    "apellido": "Hinojosa Angulo",
+    "edad": 50,
+    "cargo": "Jefe del Gabinete Técnico de la Presidencia de la República",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxm8-KcLYZliB4aDKqP6qzNUMJ50uI7zOGvA&s"
+  }
+]
